@@ -23,6 +23,7 @@
 		"@babel/core": "^7.15.0",
 		"@babel/plugin-transform-runtime": "^7.15.0",
 		"@babel/preset-env": "^7.15.0",
+		"@vercel/node": "^5.1.0",
 		"babelify": "^10.0.0",
 		"browserify": "^16.5.2",
 		"budo": "^11.6.4",
